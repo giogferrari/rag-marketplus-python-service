@@ -1,0 +1,15 @@
+# Python
+venv/
+.env/
+*.py[cod]
+__pycache__/
+*.egg-info/
+*.swp
+
+# Playwright specific
+playwright/.cache/
+playwright/bin/venv/
+__pycache__/
+.env/
+.idea/
+*.log
